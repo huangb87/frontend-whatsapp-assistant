@@ -42,7 +42,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-center mb-12">What Our Users Say</h2>
           <div className="flex flex-col md:flex-row gap-8">
             <div className="bg-white p-6 rounded-lg shadow-md flex-1">
-              <p className="mb-4">"This service has transformed how I manage my daily tasks. Highly recommend!"</p>
+              <p className="mb-4">&quot;This service has transformed how I manage my daily tasks. Highly recommend!&quot;</p>
               <div className="flex items-center">
                 <Image src="/file.svg" alt="User" width={40} height={40} className="rounded-full mr-4" />
                 <div>
@@ -52,7 +52,7 @@ export default function Home() {
               </div>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md flex-1">
-              <p className="mb-4">"A game-changer for productivity. Seamless and easy to use."</p>
+              <p className="mb-4">&quot;A game-changer for productivity. Seamless and easy to use.&quot;</p>
               <div className="flex items-center">
                 <Image src="/globe.svg" alt="User" width={40} height={40} className="rounded-full mr-4" />
                 <div>
